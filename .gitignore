@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.env.local
+.DS_Store
+playwright-report/
+test-results/
+blob-report/
+
+# Already their own repositories. This repo is the learner product and its documents of record.
+escolent-student-demo/
+escolent-landing/
